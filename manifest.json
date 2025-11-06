@@ -1,0 +1,14 @@
+{
+  "name": "haversine-relation",
+  "label": "Haversine Relation",
+  "platform": "HTML",
+  "version": "1.0",
+  "exbVersion": "1.14.0",
+  "author": "ChatGPT",
+  "description": "Widget to parse detections, compute haversine and projections, and draw on MapView",
+  "runtime": "lib/runtime",
+  "properties": {
+    "hasConfig": false,
+    "hasSettingPage": false
+  }
+}
